@@ -6,7 +6,7 @@
 </p>
 
 ---
-
+<h1 align="center">🌟 Karan Sharma</h1>
 ## 📖 Overview
 
 This is my personal portfolio, a modern and dynamic web application built with Next.js and Tailwind CSS. It’s designed to highlight my skills, projects, and achievements as a developer. With an interactive project gallery and a sleek dark theme, this portfolio delivers a seamless and engaging user experience across all devices.
